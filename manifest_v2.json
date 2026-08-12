@@ -1,0 +1,27 @@
+{
+  "item": {
+    "id": "com.xiuxian.band9pro",
+    "restype": "quick_app",
+    "name": "修仙",
+    "description": "无需下载一键开启修仙之旅！佛系放置挂机，不用时刻手动操作，摸鱼、通勤、休息间隙随手渡劫升仙。修炼功法、闯荡秘境、炼化仙丹、收服灵宠，从零开始打造属于你的仙侠大道，休闲养肝超惬意\n这个游戏免费！！！\n喜欢去爱发电支持我https://ifdian.net/a/li231129",
+    "preview": [
+      "微信图片_20260812102731.jpg"
+    ],
+    "icon": "b7e721e833784033d946862854e0f22.jpg",
+    "cover": "微信图片_20260812102748.jpg",
+    "author": [
+      {
+        "name": "lyl231129",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "com.xiuxian.band9pro.debug.1.0.0(20).rpk"
+    }
+  },
+  "ext": {}
+}
